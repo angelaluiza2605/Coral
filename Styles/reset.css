@@ -4,13 +4,15 @@
 
 :root {
   font-size: 62.5%;
-  --roxo: #AC65FC;
-  --laranja: #FC9B72;
-  --amarelo:#FCFC8B;
-  --azul:#58FCE6;
-  --salmao: #FC9B72;
-  --vermelho: #E05212;
-  --areia: #AD6F17;
+  --roxo: #6B4343;
+  --laranja: #B8ABAB;
+  --amarelo:#EE9696;
+  --azul:#A10000;
+  --salmao: #EB0000;
+  --vermelho: #6B2020;
+  --areia: #B80000;
+  --rosa: #EE4F4F;
+  --a:#EB9494;
   
 }
 

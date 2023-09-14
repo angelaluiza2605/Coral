@@ -1,13 +1,13 @@
 header {
   width: 100%;
   
-  color: white;
+  color: #A10000;
   position: relative;
   z-index: 1;
   overflow: hidden;
   padding: 1.6rem 1.6rem 0;
   font-family: Montserrat;
-  background-color: #eeab81;
+  background-color: #EE9696;
 }
 
 .circle {

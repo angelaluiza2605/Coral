@@ -46,6 +46,7 @@ main {
 .cardsOurServices img {
   width: 100%;
   transition: scale 300ms;
+  border-radius: 5%;
 }
 
 .cardOurServices img:hover {
@@ -129,10 +130,12 @@ main {
 .cardWhyChooseUs .boximage {
   max-width: 4.1rem;
   
+  
 }
 
 .cardWhyChooseUs img {
   width: 100%;
+  
 }
 
 .cardWhyChooseUs p {
@@ -169,6 +172,7 @@ main {
 }
 .cardHowitworks img {
   max-width: 100%;
+  border-radius: 5%;
 }
 
 .cardHowitworks h3 {
